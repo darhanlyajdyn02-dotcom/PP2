@@ -1,0 +1,4 @@
+Hello, this is a sample text.
+This file is used for practice.
+Python makes working with files easy.
+New line is for append 
