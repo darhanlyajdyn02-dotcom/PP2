@@ -1,0 +1,76 @@
+[
+  {
+    "id": 4,
+    "first_name": "Adilkhan",
+    "last_name": "Beisen",
+    "email": "adik@gmail.com",
+    "birthday": "2008-04-29",
+    "group_name": "Family",
+    "phones": [
+      {
+        "phone": "+77772221010",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "first_name": "Aydyn",
+    "last_name": "Darkhanuly",
+    "email": "aydyn@gmail.com",
+    "birthday": "2005-01-10",
+    "group_name": "Friends",
+    "phones": [
+      {
+        "phone": "+77774443322",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "first_name": "Azamat",
+    "last_name": "Esbol",
+    "email": "aza@gmail.com",
+    "birthday": "2003-10-30",
+    "group_name": "Other",
+    "phones": [
+      {
+        "phone": "+77774443322",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "first_name": "Maral",
+    "last_name": "Darkhankyzy",
+    "email": "maral@gmail.com",
+    "birthday": "2010-04-19",
+    "group_name": "Family",
+    "phones": [
+      {
+        "phone": "+77772229900",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "first_name": "Nurdaulet",
+    "last_name": "Aktan",
+    "email": "nurda@gmail.com",
+    "birthday": "2006-10-12",
+    "group_name": "Friends",
+    "phones": [
+      {
+        "phone": "+77774443322",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77779001212",
+        "type": "mobile"
+      }
+    ]
+  }
+]

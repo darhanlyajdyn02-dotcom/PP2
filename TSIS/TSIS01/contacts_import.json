@@ -1,0 +1,15 @@
+[
+ {
+    "first_name": "Maral",
+    "last_name": "Darkhankyzy",
+    "email": "maral@gmail.com",
+    "birthday": "2010-04-19",
+    "group_name": "Family",
+    "phones": [
+      {
+        "phone": "+77772229900",
+        "type": "home"
+      }
+    ]
+  }
+]
