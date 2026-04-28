@@ -115,7 +115,7 @@ class PaintApp:
 
     # Draw different geometric shapes based on selected tool
     def draw_shape(self, surface, tool, p1, p2, color, size, offset_x=0):
-        """Универсальная отрисовка фигур."""
+        """Universal drawing of figures."""
         x1, y1 = p1[0] + offset_x, p1[1]
         x2, y2 = p2[0] + offset_x, p2[1]
         w, h = x2 - x1, y2 - y1
