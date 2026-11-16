@@ -6,7 +6,7 @@ DB_NAME = "phonebook_tsis"
 # Database username (PostgreSQL user)
 USER = "postgres"
 # Password for the PostgreSQL user
-PASSWORD = "12345678"
+PASSWORD = "YOUR-PASSWORD"
 # Host address of the database (localhost means your own computer)
 HOST = "localhost"
 # Port number for PostgreSQL (default is 5432)
