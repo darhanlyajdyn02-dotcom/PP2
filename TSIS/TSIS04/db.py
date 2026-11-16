@@ -5,7 +5,7 @@ from datetime import datetime
 DB_CONFIG = {
     "dbname": "Snake",     
     "user": "postgres",       
-    "password": "12345678", 
+    "password": "YOUR-PASSWORD", 
     "host": "localhost",
     "port": "5432"
 }
